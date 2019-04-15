@@ -2,7 +2,3 @@
   puts "Wingardium Leviosa"
 end
 	#your code here
-
-
-
-
